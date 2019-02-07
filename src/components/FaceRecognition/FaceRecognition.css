@@ -1,6 +1,6 @@
 .bounding-box {
   position: absolute;
-  filter: blur(20px);
+  filter: blur(10px);
   background-color : white;
   display: flex;
   flex-wrap: wrap;
