@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d9805e801a8c10b11f5f",
-    "url": "/memeblur/static/css/main.c027c6fb.chunk.css"
+    "revision": "de31f768bcb47bf9d7d0",
+    "url": "/memeblur/static/css/main.1d038afa.chunk.css"
   },
   {
-    "revision": "d9805e801a8c10b11f5f",
-    "url": "/memeblur/static/js/main.d9805e80.chunk.js"
+    "revision": "de31f768bcb47bf9d7d0",
+    "url": "/memeblur/static/js/main.de31f768.chunk.js"
   },
   {
     "revision": "0899d8a251561d46fb87",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/memeblur/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "c29f2966e7eebf95fe06727eb39d50ca",
+    "revision": "ad3e8a301e0d9c7169a297811ef4a035",
     "url": "/memeblur/index.html"
   }
 ];
