@@ -4,6 +4,7 @@ import Clarifai from 'clarifai';
 import Logo from './components/Logo/Logo';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
+import Title from './components/Title/Title';
 import './App.css';
 
 const app = new Clarifai.App({
@@ -86,6 +87,7 @@ class App extends Component {
         <Particles className='particles' params={particlesOptions} />
         <div className = 'flex justify-between'>
           <Logo/>
+          <Title/>
         </div>
         <ImageLinkForm 
           onInputChange = {this.onInputChange}
