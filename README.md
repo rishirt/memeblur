@@ -4,4 +4,4 @@ This app recognizes the faces in a picture and blurs them.
 2. Run `npm install`
 3. Run `npm start`
 
-Check it out at [rishirt.github.io/memeblur]
+[Check it out](http://rishirt.github.io/memeblur)
